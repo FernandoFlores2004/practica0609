@@ -1,23 +1,23 @@
-/* h1{
+h1{
     border: 10px dotted gold;
     border-radius: 50px;
     background-color: red;
     text-align: center;
     box-shadow: 5px 5px grey;
-} */
+} 
 
-/*borde universal
+borde universal
 *{
     border: 1px dashed palevioletred;
-} */
+} 
 
-/* selector por id
+ 
 #link1{
     font-size: 20px;
 }
 #link6{
     background-color: aqua;
-} */
+} 
 
 /* Selector por clase
 .rojo{
